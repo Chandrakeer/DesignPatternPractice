@@ -1,6 +1,6 @@
-package SingletonPattern.Logger;
+package SingletonPattern.Logger.Problem;
 
-class Problem {
+class Logger {
 
     int count = 0;
 
